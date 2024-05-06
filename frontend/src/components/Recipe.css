@@ -1,0 +1,110 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+}
+
+.recipe-card {
+  width: 250px; /* Fixed width for each card */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-image {
+  width: 100%;
+  height: 150px; /* Fixed height for the recipe image */
+  object-fit: cover;
+  border-radius: 8px 8px 0 0; /* Rounded corners for the top of the image */
+}
+
+.recipe-info {
+  padding: 10px;
+}
+.recipe-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Recipe.css */
+/* Recipe.css */
+
+.sort-dropdown {
+  margin-bottom: 20px;
+}
+
+.sort-dropdown label {
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.sort-dropdown select {
+  padding: 8px 12px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.sort-dropdown select:hover {
+  border-color: #4f4444;
+}
+
+.sort-dropdown select:focus {
+  outline: none;
+  border-color: #1e744c; /* Change color on focus */
+  box-shadow: 0 0 0 2px rgba(99, 184, 144, 0.2); /* Add focus indicator */
+}
+
+.save-button {
+  position: absolute;
+  top: 10%;
+  left: 90%;
+  transform: translate(-50%, -50%);
+  background-color: transparent;
+  border: none;
+  color: #6f05a8;
+  font-size: 30px;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.recipe-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.recipe-card:hover .save-button {
+  opacity: 1;
+}
+
+.recipe-card {
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease; /* Add transition for smooth zoom effect */
+}
+
+.recipe-card:hover {
+  transform: scale(1.05); /* Zoom in by 5% when hovering */
+}
+
+.save-button {
+  position: absolute;
+  top: 10%;
+  left: 90%;
+  transform: translate(-50%, -50%);
+  background-color: transparent;
+  border: none;
+  color: #6f05a8;
+  font-size: 30px;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.recipe-card:hover .save-button {
+  opacity: 1;
+}

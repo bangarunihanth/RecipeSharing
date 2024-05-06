@@ -1,0 +1,70 @@
+POST http://localhost:4000/user-api/new-user
+Content-Type: application/json
+
+{
+    "name": "P Rakesh Kumar",
+    "username": "rakesh",
+    "email": "rakesh@gmail.com",
+    "password": "rakesh",
+    "phno": 1123456789,
+    "rating": 4.5,
+    "recipesAdded": ["122222", "422425"],
+    "recipesSaved":["245332","765568"],
+    "cuisine":[
+        {
+            "name":"italian",
+            "avgOfRating":4.3,
+            "countOfRatings":34,
+            "countOfOpened":15
+        }
+    ],
+    "comments": [
+      {
+        "recipeId": "234565",
+        "commentId": "227788"
+      }
+    ]
+  }
+
+
+###
+POST http://localhost:4000/user-api/login
+Content-Type: application/json
+
+{
+    "username":"rakesh",
+    "password":"rakesh"
+}
+
+
+###
+POST http://localhost:4000/user-api/comment
+Content-Type: application/json
+
+{
+    "id":"1711111674",
+    "commentId":"{{$timestamp}}",
+    "username":"rakesh",
+    "comment":"This is very good",
+    "likes":0,
+    "time":"{{$datetime iso8601}}"
+}
+
+###
+POST http://localhost:4000/user-api/rating
+Content-Type: application/json
+
+{
+    "id":"1711111674",
+    "username":"rakesh",
+    "rating":5
+}
+
+###
+POST http://localhost:4000/user-api/save-recipe
+Content-Type: application/json
+
+{
+    "id":"1711111674",
+    "username":"rakesh"
+}

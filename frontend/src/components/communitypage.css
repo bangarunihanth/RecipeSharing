@@ -1,0 +1,147 @@
+/* communitypage.css */
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styles */
+body {
+  font-family: 'Roboto', sans-serif; /* Use Roboto font as fallback */
+  background-color: #f1f4f9;
+}
+
+.community-page {
+  padding: 20px;
+}
+
+/* Header Styles */
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Recipe Discussions Section */
+.discussion-section {
+  margin-bottom: 40px;
+}
+
+.discussion-section h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.discussion-slider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.discussion-card {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  transition: transform 0.3s ease;
+}
+
+.discussion-card.active {
+  transform: translateY(-10px);
+}
+
+.discussion-card:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.discussion-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.discussion-card h3 {
+  text-align: center;
+  margin-top: 10px;
+  color: #333;
+}
+
+/* New Discussion Form Section */
+.new-discussion-form {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.new-discussion-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.inputBox {
+  margin-bottom: 20px;
+}
+
+.inputBox input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  color: purple; /* Change text color to purple */
+}
+
+.register-button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4CAF50;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.register-button:hover {
+  background-color: #45a049;
+}
+
+/* Left and Right Arrow Buttons */
+.prev,
+.next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 50px;
+  height: 50px;
+  background-color: rgba(255, 255, 255, 0.7);
+  border: none;
+  border-radius: 50%;
+  font-size: 24px;
+  color: #333;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.prev:hover,
+.next:hover {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.prev {
+  left: 10px;
+}
+
+.next {
+  right: 10px;
+}

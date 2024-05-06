@@ -1,0 +1,1021 @@
+{
+    "recipes": [
+        {
+            "id": "222222",
+            "name": "Dosa",
+            "cuisine": "South Indian",
+            "type": "vegitarian",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Dosa_at_Sri_Ganesha_Restauran%2C_Bangkok_%2844570742744%29.jpg",
+            "nutritionalInfo": [
+                "Calories: Approximately 133-168 calories per dosa (depending on size and ingredients)",
+                "Carbohydrates: 18-29 grams per dosa (mainly complex carbs from rice and urad dal)",
+                "Protein: 2.7-3.9 grams per dosa (from urad dal)",
+                "Fat: 5-7 grams per dosa (mostly healthy fats from oil or ghee used for cooking)",
+                "Fiber: Around 0.9 grams of dietary fiber per dosa",
+                "Other nutrients: Dosa also contains small amounts of vitamins (vitamin A, vitamin C), minerals (iron, calcium) and sodium."
+            ],
+            "ingredients": [
+                "1 cup raw rice (or a combination of raw and parboiled rice)",
+                "½ cup urad dal (black gram)",
+                "1 tablespoon fenugreek seeds (optional, for extra flavor)",
+                "Water",
+                "Salt",
+                "Dosa batter (prepared from step 1)",
+                "Oil or ghee"
+            ],
+            "instructions": [
+                "Rinse the rice and urad dal thoroughly in water.",
+                "Soak the rice and urad dal (and fenugreek seeds, if using) in separate bowls for at least 4-6 hours, or overnight for best results.",
+                "Grind the soaked urad dal with some water (around ¾ cup) into a smooth batter. You can use a blender or a wet grinder for this.",
+                "Combine the rice and urad dal batters in a large bowl.",
+                "Add salt to taste and mix well.",
+                "Cover the batter and let it ferment for 8-12 hours in a warm place. The batter should double in size and become slightly bubbly.",
+                "Heat the tawa over medium heat.",
+                "Once hot, drizzle a little oil or ghee on the surface.",
+                "Stir the fermented batter to ensure a smooth consistency.",
+                "Using a ladle, pour a scoop of batter onto the hot tawa.",
+                "Quickly spread the batter into a thin, circular shape using the back of the ladle or a spoon.",
+                "Drizzle a little more oil or ghee around the edges of the dosa.",
+                "Lower the heat slightly and cook for a minute or two, until the bottom becomes golden brown and the edges start to crisp.",
+                "Flip the dosa carefully and cook for another 30 seconds or so, until the other side is lightly browned.",
+                "Slide the dosa off the tawa and serve hot with your favorite chutney and sambar."
+            ],
+            "equipment": [
+                "Tawa (griddle)",
+                "Ladle",
+                "Spreading tool (spoon or ladle bottom)"
+            ],
+            "duration": "4-6 hours",
+            "timetaken":300,
+            "tips": [
+                "You can adjust the thickness of the dosa by adding more or less water to the batter. Thicker batters result in thicker and fluffier dosas, while thinner batters make crispy and lacy dosas.",
+                "For a non-stick tawa, you might need less oil.",
+                "If the batter is too thick, add a little water to thin it out.",
+                "If the dosa tears easily while spreading, the batter might be too thin. Let it ferment for a longer time.",
+                "Experiment with different fillings for variations like masala dosa or potato dosa."
+            ],
+            "rating": 4.5,
+            "difficulty": "beginner",
+            "comments": [
+                {
+                    "username": "rakesh",
+                    "text": "This recipe is so delicious!",
+                    "likes": 1
+                }
+            ]
+        },
+        {
+            "id": "333333",
+            "name": "Chicken Tikka",
+            "cuisine": "north-indian",
+            "type": "non-vegetarian",
+            "image": "https://www.marionskitchen.com/wp-content/uploads/2023/07/Microwave-Chicken-Tikka-Masala-From-Scratch-02.jpg",
+            "ingredients": [
+                "500g boneless, skinless chicken thighs, cut into bite-sized pieces",
+                "1 cup plain yogurt",
+                "4 cloves garlic, minced",
+                "1 tablespoon ginger, minced",
+                "1 tablespoon garam masala",
+                "1 tablespoon ground cumin",
+                "1 tablespoon ground coriander",
+                "1 teaspoon turmeric",
+                "1 teaspoon paprika",
+                "1 teaspoon cayenne pepper (adjust to taste)",
+                "Salt to taste",
+                "2 tablespoons vegetable oil",
+                "1 onion, finely chopped",
+                "1 can (14 oz) crushed tomatoes",
+                "1 cup heavy cream",
+                "Fresh cilantro leaves, chopped (for garnish)",
+                "Cooked basmati rice or naan, for serving"
+            ],
+            "instructions": [
+                "In a bowl, combine yogurt, garlic, ginger, garam masala, cumin, coriander, turmeric, paprika, cayenne pepper, and salt. Add chicken pieces and coat well. Cover and refrigerate for at least 1 hour, or overnight for best results.",
+                "Heat vegetable oil in a large skillet over medium-high heat. Add marinated chicken pieces and cook until browned on all sides, about 5-7 minutes. Remove chicken from skillet and set aside.",
+                "In the same skillet, add chopped onion and cook until softened, about 5 minutes.",
+                "Stir in crushed tomatoes and bring to a simmer. Return cooked chicken to the skillet and simmer for another 10-15 minutes, until chicken is cooked through and sauce has thickened.",
+                "Stir in heavy cream and simmer for an additional 5 minutes. Adjust seasoning with salt and cayenne pepper if needed.",
+                "Garnish with chopped cilantro leaves and serve hot with cooked basmati rice or naan."
+            ],
+            "equipment": [
+                "Large skillet",
+                "Mixing bowl"
+            ],
+            "duration": "1-2 hours",
+            "timetaken":90,
+            "tips": [
+                "Marinating the chicken for longer enhances the flavor. Overnight marination is ideal.",
+                "Adjust the level of cayenne pepper according to your spice preference.",
+                "You can also grill the marinated chicken pieces for a smoky flavor before adding them to the sauce."
+            ],
+            "rating": 4.8,
+            "difficulty": "intermediate",
+            "comments": []
+        },
+        {
+            "id": "111111",
+            "name": "Butter Chicken",
+            "cuisine": "north-indian",
+            "type": "Non-vegetarian",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400",
+            "ingredients": [
+                "500 grams boneless chicken",
+                "1 cup plain yogurt",
+                "2 tablespoons lemon juice",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon red chili powder",
+                "1 teaspoon garam masala",
+                "1/4 teaspoon turmeric powder",
+                "Salt to taste",
+                "2 tablespoons butter",
+                "1 tablespoon oil",
+                "2 onions, finely chopped",
+                "2 tomatoes, pureed",
+                "1/2 cup cream",
+                "1 teaspoon kasuri methi (dried fenugreek leaves)",
+                "Coriander leaves for garnish"
+            ],
+            "instructions": [
+                "Marinate the chicken pieces with yogurt, lemon juice, ginger-garlic paste, red chili powder, garam masala, turmeric powder, and salt. Let it marinate for at least 1 hour.",
+                "Heat butter and oil in a pan. Add chopped onions and sauté until golden brown.",
+                "Add the marinated chicken along with the marinade. Cook until the chicken is tender and the masala is well cooked.",
+                "Add tomato puree and cook for another 5-7 minutes.",
+                "Stir in cream and kasuri methi. Cook for a few more minutes until the gravy thickens.",
+                "Garnish with coriander leaves and serve hot with naan or rice."
+            ],
+            "equipment": [
+                "Pan"
+            ],
+            "duration": "1 hour 30 minutes",
+            "timetaken":90,
+            "tips": [
+                "For a richer flavor, use bone-in chicken pieces.",
+                "Adjust the spice levels according to your preference.",
+                "You can substitute cream with yogurt for a lighter version."
+            ],
+            "rating": 4.8,
+            "difficulty": "Intermediate",
+            "comments": []
+        },
+        {
+            "id": "252222",
+            "name": "Chole Bhature",
+            "cuisine": "north-indian",
+            "type": "Vegetarian",
+            "image": "https://www.indianmasalarecipe.com/wp-content/uploads/2020/04/Mouthwatering-chole-bhature-recipe-compressed.jpg",
+            "ingredients": [
+                "1 cup chickpeas (chole), soaked overnight",
+                "2 onions, finely chopped",
+                "2 tomatoes, finely chopped",
+                "2 green chilies, slit",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon cumin seeds",
+                "1 teaspoon coriander powder",
+                "1/2 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "1/2 teaspoon garam masala",
+                "Salt to taste",
+                "2 tablespoons oil",
+                "2 cups all-purpose flour",
+                "1/4 cup semolina (sooji)",
+                "1/2 cup yogurt",
+                "1 teaspoon sugar",
+                "1/2 teaspoon baking soda",
+                "Oil for frying"
+            ],
+            "instructions": [
+                "Pressure cook the soaked chickpeas with salt until soft. Drain and set aside.",
+                "Heat oil in a pan. Add cumin seeds and let them splutter.",
+                "Add chopped onions and sauté until golden brown.",
+                "Add ginger-garlic paste and green chilies. Sauté for a minute.",
+                "Add chopped tomatoes and cook until they turn mushy.",
+                "Add coriander powder, turmeric powder, red chili powder, garam masala, and salt. Cook for 2-3 minutes.",
+                "Add cooked chickpeas and mix well. Cook for another 10-15 minutes.",
+                "For bhature, mix all-purpose flour, semolina, yogurt, sugar, baking soda, and salt in a bowl. Knead into a soft dough.",
+                "Cover and let the dough rest for 2 hours.",
+                "Divide the dough into small balls and roll them into circles.",
+                "Heat oil in a pan for frying. Fry the bhature until golden brown and puffed up.",
+                "Serve hot with chole."
+            ],
+            "equipment": [
+                "Pressure cooker",
+                "Pan",
+                "Rolling pin"
+            ],
+            "duration": "2 hours 30 minutes",
+            "timetaken":150,
+            "tips": [
+                "You can add amchur (dry mango powder) for a tangy flavor to the chole.",
+                "For softer bhature, let the dough ferment for a longer time.",
+                "Serve chole bhature with pickled green chilies and onions for an extra kick."
+            ],
+            "rating": 4.7,
+            "difficulty": "Intermediate",
+            "comments": []
+        },
+        {
+            "id": "22253222",
+            "name": "Palak Paneer",
+            "cuisine": "north-indian",
+            "type": "Vegetarian",
+            "image": "https://www.indianveggiedelight.com/wp-content/uploads/2017/10/palak-paneer-recipe-featured-500x500.jpg",
+            "ingredients": [
+                "250 grams paneer (cottage cheese), cubed",
+                "4 cups spinach (palak), blanched and pureed",
+                "2 tablespoons oil or ghee",
+                "1 teaspoon cumin seeds",
+                "1 onion, finely chopped",
+                "2 tomatoes, pureed",
+                "1 tablespoon ginger garlic paste",
+                "1 green chili, chopped",
+                "1 teaspoon red chili powder",
+                "1 teaspoon garam masala",
+                "1/2 teaspoon turmeric powder",
+                "Salt to taste",
+                "1/4 cup cream",
+                "1 tablespoon kasuri methi (dried fenugreek leaves)",
+                "Coriander leaves for garnish"
+            ],
+            "instructions": [
+                "Heat oil or ghee in a pan. Add cumin seeds and let them crackle.",
+                "Add chopped onions and sauté until golden brown.",
+                "Add ginger garlic paste and green chili. Sauté for a minute.",
+                "Add tomato puree and cook until the oil separates.",
+                "Add red chili powder, garam masala, turmeric powder, and salt. Mix well.",
+                "Add spinach puree and cook for 5-7 minutes.",
+                "Add cream and kasuri methi. Simmer for another 2-3 minutes.",
+                "Add paneer cubes and cook for 2-3 minutes.",
+                "Garnish with coriander leaves and serve hot with roti or rice."
+            ],
+            "equipment": [
+                "Pan",
+                "Blender"
+            ],
+            "duration": "30-40 minutes",
+            "timetaken":35,
+            "tips": [
+                "Blanching spinach helps retain its vibrant green color.",
+                "You can adjust the consistency of the gravy by adding water or cream.",
+                "Add paneer cubes just before serving to prevent them from becoming too soft."
+            ],
+            "rating": 4.6,
+            "difficulty": "Intermediate",
+            "comments": []
+        },
+        {
+            "id": "4443444",
+            "name": "Coconut Chutney",
+            "cuisine": "south-indian",
+            "type": "Vegetarian",
+            "image": "https://cookilicious.com/wp-content/uploads/2022/01/Coconut-Chutney-1.jpg",
+            "ingredients": [
+                "1 cup grated coconut",
+                "2-3 green chilies",
+                "1-inch ginger",
+                "1/4 cup roasted chana dal",
+                "A handful of coriander leaves",
+                "Salt to taste",
+                "Water",
+                "1 tablespoon oil",
+                "1 teaspoon mustard seeds",
+                "1 teaspoon urad dal",
+                "A pinch of asafoetida (hing)",
+                "2-3 dried red chilies",
+                "10-12 curry leaves"
+            ],
+            "instructions": [
+                "Grind grated coconut, green chilies, ginger, roasted chana dal, coriander leaves, and salt into a smooth paste. Add water as needed.",
+                "Heat oil in a pan. Add mustard seeds, urad dal, asafoetida, dried red chilies, and curry leaves.",
+                "Pour the tempering over the chutney and mix well.",
+                "Serve coconut chutney with dosa, idli, or vada."
+            ],
+            "equipment": [
+                "Blender",
+                "Pan"
+            ],
+            "duration": "15-20 minutes",
+            "timetaken":17,
+            "tips": [
+                "You can adjust the spiciness by adding more or fewer green chilies.",
+                "For a creamier texture, you can add a small amount of yogurt while grinding.",
+                "Freshly grated coconut yields the best flavor, but you can use frozen coconut as well."
+            ],
+            "rating": 4.7,
+            "difficulty": "Easy",
+            "comments": []
+        },
+        {
+            "id": "5555455",
+            "name": "Kung Pao Chicken",
+            "cuisine": "chinese",
+            "type": "Non-vegetarian",
+            "image": "https://smellylunchbox.com/wp-content/uploads/2022/04/kungpaochicken2-scaled.webp",
+            "ingredients": [
+                "500 grams chicken breast, diced",
+                "2 tablespoons soy sauce",
+                "1 tablespoon rice vinegar",
+                "1 tablespoon cornstarch",
+                "2 tablespoons vegetable oil",
+                "2-3 dried red chilies",
+                "1/2 cup peanuts",
+                "3-4 garlic cloves, minced",
+                "1-inch ginger, minced",
+                "2 green onions, chopped",
+                "1 bell pepper, diced",
+                "1 tablespoon hoisin sauce",
+                "1 tablespoon oyster sauce",
+                "1 tablespoon sesame oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "In a bowl, mix diced chicken with soy sauce, rice vinegar, and cornstarch. Marinate for 15-20 minutes.",
+                "Heat vegetable oil in a pan. Add dried red chilies and peanuts. Stir-fry until peanuts are golden brown. Remove and set aside.",
+                "In the same pan, add garlic and ginger. Sauté until fragrant.",
+                "Add marinated chicken and stir-fry until cooked through.",
+                "Add chopped green onions, bell pepper, hoisin sauce, and oyster sauce. Stir-fry for another 2-3 minutes.",
+                "Add sesame oil, salt, roasted peanuts, and dried red chilies. Mix well.",
+                "Serve hot with steamed rice."
+            ],
+            "equipment": [
+                "Pan"
+            ],
+            "duration": "30-40 minutes",
+            "timetaken":35,
+            "tips": [
+                "Adjust the amount of dried red chilies according to your spice preference.",
+                "You can use cashews instead of peanuts for a variation.",
+                "Make sure not to overcook the chicken to keep it tender."
+            ],
+            "rating": 4.6,
+            "difficulty": "Intermediate",
+            "comments": []
+        },
+        {
+            "id": "6666266",
+            "name": "Fried Rice",
+            "cuisine": "chinese",
+            "type": "Vegetarian",
+            "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2018/01/IMG_8232.jpg",
+            "ingredients": [
+                "2 cups cooked rice, preferably chilled",
+                "2 tablespoons vegetable oil",
+                "2 eggs, beaten",
+                "1 onion, finely chopped",
+                "2 garlic cloves, minced",
+                "1-inch ginger, minced",
+                "1 cup mixed vegetables (carrot, beans, peas, corn)",
+                "2 tablespoons soy sauce",
+                "1 tablespoon vinegar",
+                "1 tablespoon chili sauce (optional)",
+                "Salt and pepper to taste",
+                "2 green onions, chopped for garnish"
+            ],
+            "instructions": [
+                "Heat vegetable oil in a pan. Add beaten eggs and scramble until cooked. Remove and set aside.",
+                "In the same pan, add chopped onion, garlic, and ginger. Sauté until onions are translucent.",
+                "Add mixed vegetables and stir-fry until tender.",
+                "Add cooked rice, soy sauce, vinegar, chili sauce (if using), salt, and pepper. Mix well.",
+                "Add scrambled eggs and chopped green onions. Stir-fry for another 2-3 minutes.",
+                "Serve hot as a main dish or side dish."
+            ],
+            "equipment": [
+                "Pan"
+            ],
+            "duration": "20-30 minutes",
+            "timetaken":25,
+            "tips": [
+                "Use chilled cooked rice for better texture.",
+                "You can add cooked chicken, shrimp, or tofu for protein.",
+                "Feel free to customize the vegetables according to your preference."
+            ],
+            "rating": 4.5,
+            "difficulty": "Easy",
+            "comments": []
+        },
+        {
+            "id": "7777577",
+            "name": "Chicken Enchiladas",
+            "cuisine": "mexican",
+            "type": "Non-vegetarian",
+            "image": "https://recipetineats.com/wp-content/uploads/2020/03/Chicken-Enchiladas_1.jpg",
+            "ingredients": [
+                "2 cups cooked chicken, shredded",
+                "1 cup enchilada sauce",
+                "1 cup shredded cheese (cheddar or Mexican blend)",
+                "8-10 corn tortillas",
+                "1 onion, finely chopped",
+                "2 garlic cloves, minced",
+                "1 teaspoon cumin powder",
+                "1 teaspoon chili powder",
+                "Salt and pepper to taste",
+                "2 tablespoons vegetable oil",
+                "Sour cream and chopped cilantro for garnish"
+            ],
+            "instructions": [
+                "Preheat the oven to 375°F (190°C).",
+                "Heat vegetable oil in a pan. Add chopped onion and garlic. Sauté until translucent.",
+                "Add shredded chicken, cumin powder, chili powder, salt, and pepper. Cook for 3-4 minutes.",
+                "Spread a spoonful of enchilada sauce on the bottom of a baking dish.",
+                "Warm corn tortillas in the microwave or on a skillet.",
+                "Place a spoonful of chicken mixture onto each tortilla, roll it up, and place seam-side down in the baking dish.",
+                "Pour the remaining enchilada sauce over the rolled tortillas. Sprinkle shredded cheese on top.",
+                "Bake for 20-25 minutes, or until the cheese is bubbly and golden brown.",
+                "Serve hot with sour cream and chopped cilantro."
+            ],
+            "equipment": [
+                "Baking dish",
+                "Pan"
+            ],
+            "duration": "30-40 minutes",
+            "timetaken":35,
+            "tips": [
+                "You can use rotisserie chicken for a quicker preparation.",
+                "Add diced green chilies for extra heat.",
+                "Top with sliced black olives or diced tomatoes for garnish."
+            ],
+            "rating": 4.7,
+            "difficulty": "Intermediate",
+            "comments": []
+        },
+        {
+            "id": "8888688",
+            "name": "Guacamole",
+            "cuisine": "mexican",
+            "type": "Vegetarian",
+            "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/02/The-Best-Guacamole-Recipe.jpg",
+            "ingredients": [
+                "2 ripe avocados",
+                "1 lime, juiced",
+                "1/4 cup red onion, finely chopped",
+                "1 small tomato, diced",
+                "1/4 cup cilantro, chopped",
+                "1 jalapeño, seeded and minced",
+                "1/2 teaspoon cumin powder",
+                "Salt and pepper to taste",
+                "Tortilla chips for serving"
+            ],
+            "instructions": [
+                "Cut avocados in half, remove the pit, and scoop the flesh into a bowl.",
+                "Add lime juice and mash the avocados with a fork until chunky.",
+                "Add chopped red onion, diced tomato, minced jalapeño, chopped cilantro, cumin powder, salt, and pepper. Mix well.",
+                "Taste and adjust seasoning if needed.",
+                "Serve immediately with tortilla chips."
+            ],
+            "equipment": [
+                "Bowl",
+                "Fork"
+            ],
+            "duration": "10-15 minutes",
+            "timetaken":13,
+            "tips": [
+                "Use ripe avocados for the best flavor and texture.",
+                "For extra flavor, add a pinch of garlic powder.",
+                "Cover the guacamole with plastic wrap directly on the surface to prevent browning if not serving immediately."
+            ],
+            "rating": 4.8,
+            "difficulty": "Easy",
+            "comments": []
+        },
+        {
+            "id": "9999399",
+            "name": "Lahmacun",
+            "cuisine": "turkish",
+            "type": "Non-vegetarian",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/09/Lahmacun-1-c4dc646.jpg?resize=768,574",
+            "ingredients": [
+                "For the dough:",
+                "2 cups all-purpose flour",
+                "1 teaspoon instant yeast",
+                "1 teaspoon sugar",
+                "1/2 teaspoon salt",
+                "3/4 cup warm water",
+                "For the topping:",
+                "250 grams ground lamb or beef",
+                "1 onion, finely chopped",
+                "2 tomatoes, finely chopped",
+                "1/4 cup parsley, finely chopped",
+                "2 tablespoons tomato paste",
+                "2 tablespoons olive oil",
+                "1 teaspoon paprika",
+                "1/2 teaspoon cumin",
+                "Salt and pepper to taste",
+                "Lemon wedges for serving"
+            ],
+            "instructions": [
+                "In a bowl, combine flour, yeast, sugar, and salt. Gradually add warm water and knead into a smooth dough. Cover and let it rise for 1 hour.",
+                "In another bowl, mix ground lamb or beef with chopped onion, tomatoes, parsley, tomato paste, olive oil, paprika, cumin, salt, and pepper.",
+                "Preheat the oven to 475°F (245°C).",
+                "Divide the dough into small balls. Roll out each ball into a thin circle.",
+                "Spread the meat mixture evenly over the dough circles, leaving a small border.",
+                "Bake in the preheated oven for 10-12 minutes, or until the edges are crispy and the meat is cooked through.",
+                "Serve hot with lemon wedges."
+            ],
+            "equipment": [
+                "Oven",
+                "Rolling pin"
+            ],
+            "duration": "1.5 hours",
+            "timetaken":90,
+            "tips": [
+                "You can substitute ground lamb or beef with ground chicken or turkey.",
+                "Feel free to customize the topping with your favorite ingredients like bell peppers or chili flakes.",
+                "Serve Lahmacun with a side of yogurt for dipping."
+            ],
+            "rating": 4.6,
+            "difficulty": "Intermediate",
+            "comments": []
+        },
+        {
+            "id": "1010510",
+            "name": "Turkish Lentil Soup",
+            "cuisine": "turkish",
+            "type": "Vegetarian",
+            "image": "https://foolproofliving.com/wp-content/uploads/2017/11/Turkish-red-lentil-soup-recipe-image.jpg",
+            "ingredients": [
+                "1 cup red lentils, rinsed",
+                "1 onion, chopped",
+                "2 carrots, chopped",
+                "2 potatoes, chopped",
+                "2 tablespoons olive oil",
+                "1 teaspoon cumin",
+                "1 teaspoon paprika",
+                "1/2 teaspoon dried mint",
+                "6 cups vegetable or chicken broth",
+                "Salt and pepper to taste",
+                "Lemon wedges and fresh parsley for garnish"
+            ],
+            "instructions": [
+                "Heat olive oil in a large pot over medium heat. Add chopped onion, carrots, and potatoes. Sauté until softened.",
+                "Add cumin, paprika, and dried mint. Stir to coat the vegetables.",
+                "Add rinsed red lentils and broth. Bring to a boil, then reduce heat and simmer for 20-25 minutes, or until lentils and vegetables are tender.",
+                "Using an immersion blender, blend the soup until smooth. Alternatively, transfer the soup to a blender and blend in batches.",
+                "Season with salt and pepper to taste.",
+                "Serve hot with lemon wedges and chopped fresh parsley."
+            ],
+            "equipment": [
+                "Large pot",
+                "Immersion blender or regular blender"
+            ],
+            "duration": "40-45 minutes",
+            "timetaken":43,
+            "tips": [
+                "You can add a dollop of yogurt or drizzle of olive oil before serving for extra richness.",
+                "Adjust the consistency of the soup by adding more broth or water if needed.",
+                "Sprinkle with red pepper flakes for a bit of heat."
+            ],
+            "rating": 4.7,
+            "difficulty": "Easy",
+            "comments": []
+        },
+        {
+            "id": "9999299",
+            "name": "Köfte",
+            "cuisine": "turkish",
+            "type": "Non-vegetarian",
+            "image": "https://media.istockphoto.com/id/1435015482/photo/cig-kofte-or-raw-meatballs-on-wood-background-traditional-turkish-cuisine-delicacies-close-up.jpg?s=612x612&w=0&k=20&c=Nz1-L6NMijWRUa087qD9SZX-7zjR3dg8ROn3sWhloRM=",
+            "ingredients": [
+                "500 grams ground beef or lamb",
+                "1 onion, grated",
+                "2 cloves garlic, minced",
+                "1/4 cup breadcrumbs",
+                "1 egg",
+                "1 teaspoon paprika",
+                "1 teaspoon cumin",
+                "1/2 teaspoon chili flakes (optional)",
+                "Salt and pepper to taste",
+                "2 tablespoons vegetable oil"
+            ],
+            "instructions": [
+                "In a large bowl, combine ground meat, grated onion, minced garlic, breadcrumbs, egg, paprika, cumin, chili flakes (if using), salt, and pepper. Mix well.",
+                "Shape the mixture into small oval-shaped meatballs.",
+                "Heat vegetable oil in a pan over medium heat. Add the meatballs and cook until browned on all sides and cooked through, about 8-10 minutes.",
+                "Serve hot köfte with rice, bulgur pilaf, or salad."
+            ],
+            "equipment": [
+                "Pan"
+            ],
+            "duration": "20-30 minutes",
+            "timetaken":25,
+            "tips": [
+                "Grating the onion helps to keep the meatballs moist.",
+                "You can add chopped fresh herbs like parsley or mint for extra flavor.",
+                "Cook the meatballs in batches to avoid overcrowding the pan."
+            ],
+            "rating": 4.6,
+            "difficulty": "Easy",
+            "comments": []
+        },
+        {
+            "id": "1010110",
+            "name": "Çoban Salatası",
+            "cuisine": "turkish",
+            "type": "Vegetarian",
+            "image": "https://vidarbergum.com/wp-content/uploads/2021/06/shepherd-salad-turkish-coban-salatasi-2.jpg",
+            "ingredients": [
+                "2 tomatoes, diced",
+                "1 cucumber, diced",
+                "1 onion, finely chopped",
+                "1 green bell pepper, diced",
+                "1/4 cup parsley, chopped",
+                "2 tablespoons olive oil",
+                "1 tablespoon lemon juice",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "In a large bowl, combine diced tomatoes, cucumber, onion, green bell pepper, and chopped parsley.",
+                "Drizzle olive oil and lemon juice over the vegetables.",
+                "Season with salt and pepper to taste.",
+                "Toss the salad gently until everything is well combined.",
+                "Serve immediately as a refreshing side dish or accompaniment."
+            ],
+            "equipment": [
+                "Bowl"
+            ],
+            "duration": "10-15 minutes",
+            "timetaken":13,
+            "tips": [
+                "For extra flavor, you can add olives or feta cheese.",
+                "Let the salad sit for a few minutes before serving to allow the flavors to meld together.",
+                "Adjust the amount of lemon juice and olive oil according to your preference."
+            ],
+            "rating": 4.7,
+            "difficulty": "Easy",
+            "comments": []
+        },
+        {
+            "id": "11116111",
+            "name": "Chicken Teriyaki",
+            "cuisine": "japanese",
+            "type": "Non-vegetarian",
+            "image": "https://www.budgetbytes.com/wp-content/uploads/2022/04/Teriyaki-Chicken-plate.jpg",
+            "ingredients": [
+                "500 grams boneless chicken thighs, cut into bite-sized pieces",
+                "1/4 cup soy sauce",
+                "2 tablespoons sake (Japanese rice wine) or dry sherry",
+                "2 tablespoons mirin (Japanese sweet rice wine)",
+                "2 tablespoons sugar",
+                "1 tablespoon vegetable oil",
+                "1 tablespoon honey (optional)",
+                "1 teaspoon grated ginger",
+                "Steamed rice and steamed vegetables for serving"
+            ],
+            "instructions": [
+                "In a bowl, combine soy sauce, sake, mirin, sugar, and grated ginger. Stir until sugar is dissolved.",
+                "Heat vegetable oil in a pan over medium-high heat.",
+                "Add chicken pieces and cook until browned on all sides.",
+                "Pour the sauce over the chicken and bring to a simmer.",
+                "Reduce heat to medium-low and cook until the sauce thickens and coats the chicken, about 8-10 minutes.",
+                "If using honey, drizzle it over the chicken and cook for another minute.",
+                "Serve hot chicken teriyaki with steamed rice and vegetables."
+            ],
+            "equipment": [
+                "Pan"
+            ],
+            "duration": "20-30 minutes",
+            "timetaken":25,
+            "tips": [
+                "Use boneless, skinless chicken thighs for juicy and flavorful teriyaki.",
+                "You can marinate the chicken in the sauce for extra flavor.",
+                "Garnish with sesame seeds and chopped green onions for an authentic touch."
+            ],
+            "rating": 4.8,
+            "difficulty": "Easy",
+            "comments": []
+        },
+        {
+            "id": "1212",
+            "name": "Miso Soup",
+            "cuisine": "japanese",
+            "type": "Vegetarian",
+            "image": "https://assets.epicurious.com/photos/63ceb68b7d88c936746ada44/4:3/w_5197,h_3898,c_limit/MisoSoup_RECIPE_012023_46093.jpg",
+            "ingredients": [
+                "4 cups dashi (Japanese soup stock)",
+                "3 tablespoons miso paste",
+                "1/2 cup tofu, cubed",
+                "2 tablespoons wakame (dried seaweed)",
+                "2 green onions, thinly sliced"
+            ],
+            "instructions": [
+                "In a saucepan, bring dashi to a simmer over medium heat.",
+                "In a small bowl, dissolve miso paste in a ladleful of hot dashi.",
+                "Add the dissolved miso paste back to the saucepan and stir to combine.",
+                "Add cubed tofu and wakame to the soup. Simmer for 2-3 minutes.",
+                "Remove the soup from heat and ladle into serving bowls.",
+                "Garnish with sliced green onions and serve hot."
+            ],
+            "equipment": [
+                "Saucepan",
+                "Small bowl"
+            ],
+            "duration": "15-20 minutes",
+            "timetaken":17,
+            "tips": [
+                "Use white or red miso paste according to your preference.",
+                "Do not boil the miso soup after adding miso paste to preserve its flavor.",
+                "Add other ingredients like mushrooms or spinach for variations."
+            ],
+            "rating": 4.7,
+            "difficulty": "Easy",
+            "comments": []
+        },
+        {
+            "id": "14114",
+            "name": "Ratatouille",
+            "cuisine": "french",
+            "type": "Vegetarian",
+            "image": "https://media.chefdehome.com/740/0/0/ratatouille/ratatouille-casserole.jpg",
+            "ingredients": [
+                "1 eggplant, diced",
+                "2 zucchinis, diced",
+                "1 yellow bell pepper, diced",
+                "1 red bell pepper, diced",
+                "1 onion, diced",
+                "2 cloves garlic, minced",
+                "4 tomatoes, diced",
+                "2 tablespoons tomato paste",
+                "2 tablespoons olive oil",
+                "1 teaspoon dried thyme",
+                "1 teaspoon dried oregano",
+                "Salt and pepper to taste",
+                "Fresh basil for garnish"
+            ],
+            "instructions": [
+                "Preheat the oven to 375°F (190°C).",
+                "In a large baking dish, combine diced eggplant, zucchinis, bell peppers, onion, garlic, tomatoes, tomato paste, olive oil, dried thyme, dried oregano, salt, and pepper. Toss to coat evenly.",
+                "Cover the baking dish with aluminum foil and bake for 45 minutes.",
+                "Remove the foil and bake for an additional 15-20 minutes, or until the vegetables are tender and slightly caramelized.",
+                "Serve hot or at room temperature, garnished with fresh basil leaves."
+            ],
+            "equipment": [
+                "Baking dish"
+            ],
+            "duration": "1 hour 15 minutes",
+            "timetaken":75,
+            "tips": [
+                "You can add other vegetables like mushrooms or yellow squash for variations.",
+                "Ratatouille tastes even better the next day after the flavors have melded together.",
+                "Serve as a side dish, over pasta, or with crusty bread."
+            ],
+            "rating": 4.7,
+            "difficulty": "Easy",
+            "comments": []
+        },
+        {
+            "id": "15155",
+            "name": "Spaghetti",
+            "cuisine": "italian",
+            "type": "Non-vegetarian",
+            "image": "https://www.foodandwine.com/thmb/0U-xiQNy_ahrPzy22DlinwqT1f0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/hd-fw200304_101spaghetti-3e165ba8cd44491fa3357b6ba944bdbe.jpg",
+            "ingredients": [
+                "300 grams spaghetti",
+                "150 grams pancetta or bacon, diced",
+                "2 cloves garlic, minced",
+                "3 large eggs",
+                "1 cup grated Parmesan cheese",
+                "Salt and black pepper to taste",
+                "Fresh parsley for garnish"
+            ],
+            "instructions": [
+                "Cook spaghetti in a large pot of boiling salted water until al dente. Reserve 1/2 cup of pasta cooking water before draining.",
+                "In a large skillet, cook diced pancetta or bacon over medium heat until crispy. Add minced garlic and cook until fragrant. Remove from heat.",
+                "In a bowl, whisk together eggs, grated Parmesan cheese, and black pepper.",
+                "Add cooked spaghetti to the skillet with pancetta or bacon. Toss to combine.",
+                "Pour the egg and cheese mixture over the hot pasta, tossing quickly to combine. Add reserved pasta water as needed to create a creamy sauce.",
+                "Serve immediately, garnished with chopped fresh parsley and additional grated Parmesan cheese."
+            ],
+            "equipment": [
+                "Large pot",
+                "Skillet",
+                "Bowl"
+            ],
+            "duration": "20-25 minutes",
+            "timetaken":23,
+            "tips": [
+                "Make sure to toss the pasta quickly with the egg and cheese mixture off the heat to prevent scrambling the eggs.",
+                "Use freshly grated Parmesan cheese for the best flavor and texture.",
+                "Adjust the amount of black pepper according to your preference."
+            ],
+            "rating": 4.8,
+            "difficulty": "Intermediate",
+            "comments": []
+        },
+        {
+            "id": "161616",
+            "name": "Caprese Salad",
+            "cuisine": "italian",
+            "type": "Vegetarian",
+            "image": "data:image/jpeg;base64,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",
+            "ingredients": [
+                "2 large ripe tomatoes, sliced",
+                "1 ball fresh mozzarella cheese, sliced",
+                "Fresh basil leaves",
+                "Extra virgin olive oil",
+                "Balsamic glaze (optional)",
+                "Salt and black pepper to taste"
+            ],
+            "instructions": [
+                "Arrange alternating slices of tomatoes and mozzarella cheese on a serving platter.",
+                "Tuck fresh basil leaves between the tomato and cheese slices.",
+                "Drizzle extra virgin olive oil over the salad.",
+                "Season with salt and black pepper to taste.",
+                "Drizzle with balsamic glaze, if using.",
+                "Serve immediately as a refreshing appetizer or side dish."
+            ],
+            "equipment": [
+                "Serving platter"
+            ],
+            "duration": "10-15 minutes",
+            "timetaken":13,
+            "tips": [
+                "Use ripe and flavorful tomatoes for the best taste.",
+                "Fresh mozzarella cheese works best for this salad.",
+                "You can also add a sprinkle of dried oregano or fresh thyme for extra flavor."
+            ],
+            "rating": 4.7,
+            "difficulty": "Easy",
+            "comments": []
+        },
+        {
+            "id": "181818",
+            "name": "Paneer Tikka",
+            "cuisine": "north-indian",
+            "type": "Vegetarian",
+            "image": "https://www.indianveggiedelight.com/wp-content/uploads/2021/08/air-fryer-paneer-tikka-featured-500x500.jpg",
+            "ingredients": [
+                "250 grams paneer, cut into cubes",
+                "1 bell pepper, diced",
+                "1 onion, diced",
+                "1/2 cup plain yogurt",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon ground turmeric",
+                "1 teaspoon ground cumin",
+                "1 teaspoon ground coriander",
+                "1 teaspoon garam masala",
+                "1 teaspoon Kashmiri red chili powder",
+                "Salt to taste",
+                "2 tablespoons vegetable oil",
+                "1 lemon, cut into wedges",
+                "Fresh cilantro leaves for garnish"
+            ],
+            "instructions": [
+                "In a bowl, combine plain yogurt, ginger-garlic paste, ground turmeric, ground cumin, ground coriander, garam masala, Kashmiri red chili powder, and salt.",
+                "Add paneer cubes, diced bell pepper, and diced onion to the marinade. Coat evenly and refrigerate for 1-2 hours.",
+                "Preheat the grill or oven to medium-high heat.",
+                "Thread marinated paneer cubes, bell pepper, and onion onto skewers.",
+                "Brush with vegetable oil and grill for 10-12 minutes, turning occasionally, until lightly charred.",
+                "Serve hot with lemon wedges and garnish with fresh cilantro leaves."
+            ],
+            "equipment": [
+                "Grill or oven",
+                "Skewers"
+            ],
+            "duration": "1-2 hours (including marination)",
+            "timetaken":90,
+            "tips": [
+                "Use thick yogurt or hung curd for a thick marinade that coats the paneer well.",
+                "If using wooden skewers, soak them in water for 30 minutes before threading to prevent burning.",
+                "You can add other vegetables like cherry tomatoes or mushrooms to the skewers for variation."
+            ],
+            "rating": 4.8,
+            "difficulty": "Easy",
+            "comments": []
+        },
+        {
+            "id": "202020",
+            "name": "Vegetable Upma",
+            "cuisine": "south-indian",
+            "type": "Vegetarian",
+            "image": "https://myfoodstory.com/wp-content/uploads/2022/11/Vegetable-Upma-3-500x375.jpg",
+            "ingredients": [
+                "1 cup semolina (rava or sooji)",
+                "2 tablespoons ghee or oil",
+                "1 teaspoon mustard seeds",
+                "1 teaspoon urad dal (black gram)",
+                "1 teaspoon chana dal (split chickpeas)",
+                "8-10 curry leaves",
+                "2 green chilies, chopped",
+                "1 onion, finely chopped",
+                "1/2 cup mixed vegetables (carrots, peas, bell peppers, etc.), finely chopped",
+                "2 cups water",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Dry roast semolina in a pan until lightly golden and aromatic. Set aside.",
+                "Heat ghee or oil in the same pan. Add mustard seeds and let them splutter.",
+                "Add urad dal, chana dal, and curry leaves. Sauté until dals turn golden brown.",
+                "Add chopped green chilies and onion. Sauté until onions turn translucent.",
+                "Add mixed vegetables and sauté for 2-3 minutes.",
+                "Pour water into the pan and bring it to a boil.",
+                "Reduce heat to low. Gradually add roasted semolina while stirring continuously to prevent lumps.",
+                "Cover and cook for 5-7 minutes or until the upma is cooked and water is absorbed.",
+                "Serve hot with coconut chutney or pickle."
+            ],
+            "equipment": [
+                "Pan"
+            ],
+            "duration": "20-25 minutes",
+            "timetaken":23,
+            "tips": [
+                "Roasting semolina enhances the flavor of upma.",
+                "You can add grated ginger for extra flavor.",
+                "Adjust the quantity of water depending on the consistency you prefer for upma."
+            ],
+            "rating": 4.6,
+            "difficulty": "Easy",
+            "comments": []
+        },
+        {
+            "id": "191919",
+            "name": "Vegetable Biryani",
+            "cuisine": "south-indian",
+            "type": "Vegetarian",
+            "image": "https://i.ytimg.com/vi/Do7ZdUodDdw/maxresdefault.jpg",
+            "ingredients": [
+                "1.5 cups basmati rice, soaked for 30 minutes",
+                "2 cups mixed vegetables (carrots, peas, beans, potatoes), diced",
+                "1 onion, thinly sliced",
+                "1 tomato, finely chopped",
+                "1/2 cup plain yogurt",
+                "1/4 cup chopped mint leaves",
+                "1/4 cup chopped coriander leaves",
+                "2 tablespoons ginger-garlic paste",
+                "1 tablespoon biryani masala",
+                "1 teaspoon cumin seeds",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "Whole spices (2 bay leaves, 4 green cardamom pods, 4 cloves, 1-inch cinnamon stick)",
+                "2 tablespoons ghee",
+                "2 tablespoons vegetable oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Heat ghee and vegetable oil in a pressure cooker. Add cumin seeds and whole spices.",
+                "Add thinly sliced onions and sauté until golden brown.",
+                "Add ginger-garlic paste and sauté until fragrant.",
+                "Add chopped tomatoes and cook until soft.",
+                "Add mixed vegetables, biryani masala, turmeric powder, red chili powder, chopped mint leaves, and chopped coriander leaves. Mix well.",
+                "Add soaked basmati rice and plain yogurt. Mix gently to combine.",
+                "Add water (1:2 ratio of rice to water), salt to taste, and pressure cook for 2 whistles.",
+                "Let the pressure release naturally. Fluff the biryani gently with a fork.",
+                "Serve hot with raita or vegetable curry."
+            ],
+            "equipment": [
+                "Pressure cooker"
+            ],
+            "duration": "45-50 minutes",
+            "timetaken":47,
+            "tips": [
+                "You can add paneer or tofu cubes for extra protein.",
+                "Use good quality biryani masala for authentic flavor.",
+                "Layer some fried onions and saffron-infused milk on top of the biryani before pressure cooking for added richness."
+            ],
+            "rating": 4.8,
+            "difficulty": "Intermediate",
+            "comments": []
+        },
+        {
+            "id": "252525",
+            "name": "Spring Rolls",
+            "cuisine": "chinese",
+            "type": "Vegetarian",
+            "image": "https://www.thecookingcollective.com.au/wp-content/uploads/2022/08/Vegetable-Spring-Rolls-2-1-500x375.jpg",
+            "ingredients": [
+                "12 spring roll wrappers",
+                "2 cups shredded cabbage",
+                "1 carrot, julienned",
+                "1 bell pepper, julienned",
+                "1/2 cup bean sprouts",
+                "2 green onions, thinly sliced",
+                "2 cloves garlic, minced",
+                "1 tablespoon soy sauce",
+                "1 tablespoon oyster sauce (optional)",
+                "1 teaspoon sesame oil",
+                "Vegetable oil for frying",
+                "Sweet chili sauce for dipping"
+            ],
+            "instructions": [
+                "In a large bowl, combine shredded cabbage, julienned carrot, julienned bell pepper, bean sprouts, sliced green onions, minced garlic, soy sauce, oyster sauce (if using), and sesame oil. Toss to combine.",
+                "Place a spring roll wrapper on a clean surface. Spoon about 2-3 tablespoons of the vegetable filling onto the bottom third of the wrapper.",
+                "Fold the bottom edge of the wrapper over the filling, then fold in the sides, and roll tightly to enclose the filling.",
+                "Moisten the top edge of the wrapper with water and press to seal.",
+                "Heat vegetable oil in a deep fryer or large skillet to 350°F (180°C).",
+                "Fry the spring rolls in batches until golden brown and crispy, about 3-4 minutes per batch.",
+                "Remove from the oil and drain on paper towels.",
+                "Serve hot with sweet chili sauce for dipping."
+            ],
+            "equipment": [
+                "Deep fryer or large skillet"
+            ],
+            "duration": "30-35 minutes",
+            "timetaken":37,
+            "tips": [
+                "Make sure the filling is dry to prevent soggy spring rolls.",
+                "You can use egg wash or cornstarch slurry to seal the edges of the wrappers.",
+                "Experiment with different vegetables and seasonings for variations."
+            ],
+            "rating": 4.8,
+            "difficulty": "Intermediate",
+            "comments": []
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "P Rakesh Kumar",
+    "username": "rakesh",
+    "email": "rakesh@gmail.com",
+    "password": "rakesh",
+    "phno": 1123456789,
+    "rating": 4.5,
+    "recipesAdded": [
+        "122222",
+        "422425"
+    ],
+    "recipesSaved": [
+        "245332",
+        "765568"
+    ],
+    "cuisine": [
+        {
+            "name": "italian",
+            "avgOfRating": 4.3,
+            "countOfRatings": 34,
+            "countOfOpened": 15
+        }
+    ],
+    "comments": [
+        {
+            "recipeId": "234565",
+            "commentId": "227788"
+        }
+    ]
+}

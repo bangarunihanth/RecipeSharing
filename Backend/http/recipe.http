@@ -1,0 +1,84 @@
+POST http://localhost:4000/recipe-api/new-recipe
+Content-Type: application/json
+
+{
+    "id": "{{$timestamp}}",
+    "username":"rakesh",
+    "name": "Dosa",
+    "cuisine": "South Indian",
+    "type": "vegitarian",
+    "image": "https://cdn.siasat.com/wp-content/uploads/2022/10/dosa-spots-ed.jpg",
+    "nutritionalInfo": [
+        "Calories: Approximately 133-168 calories per dosa (depending on size and ingredients)",
+        "Carbohydrates: 18-29 grams per dosa (mainly complex carbs from rice and urad dal)",
+        "Protein: 2.7-3.9 grams per dosa (from urad dal)",
+        "Fat: 5-7 grams per dosa (mostly healthy fats from oil or ghee used for cooking)",
+        "Fiber: Around 0.9 grams of dietary fiber per dosa",
+        "Other nutrients: Dosa also contains small amounts of vitamins (vitamin A, vitamin C), minerals (iron, calcium) and sodium."
+    ],
+    "ingredients": [
+        "1 cup raw rice (or a combination of raw and parboiled rice)",
+        "½ cup urad dal (black gram)",
+        "1 tablespoon fenugreek seeds (optional, for extra flavor)",
+        "Water",
+        "Salt",
+        "Dosa batter (prepared from step 1)",
+        "Oil or ghee"
+    ],
+    "instructions": [
+        "Rinse the rice and urad dal thoroughly in water.",
+        "Soak the rice and urad dal (and fenugreek seeds, if using) in separate bowls for at least 4-6 hours, or overnight for best results.",
+        "Grind the soaked urad dal with some water (around ¾ cup) into a smooth batter. You can use a blender or a wet grinder for this.",
+        "Combine the rice and urad dal batters in a large bowl.",
+        "Add salt to taste and mix well.",
+        "Cover the batter and let it ferment for 8-12 hours in a warm place. The batter should double in size and become slightly bubbly.",
+        "Heat the tawa over medium heat.",
+        "Once hot, drizzle a little oil or ghee on the surface.",
+        "Stir the fermented batter to ensure a smooth consistency.",
+        "Using a ladle, pour a scoop of batter onto the hot tawa.",
+        "Quickly spread the batter into a thin, circular shape using the back of the ladle or a spoon.",
+        "Drizzle a little more oil or ghee around the edges of the dosa.",
+        "Lower the heat slightly and cook for a minute or two, until the bottom becomes golden brown and the edges start to crisp.",
+        "Flip the dosa carefully and cook for another 30 seconds or so, until the other side is lightly browned.",
+        "Slide the dosa off the tawa and serve hot with your favorite chutney and sambar."
+    ],
+    "equipment": [
+        "Tawa (griddle)",
+        "Ladle",
+        "Spreading tool (spoon or ladle bottom)"
+    ],
+    "duration": "4-6 hours",
+    "tips": [
+        "You can adjust the thickness of the dosa by adding more or less water to the batter. Thicker batters result in thicker and fluffier dosas, while thinner batters make crispy and lacy dosas.",
+        "For a non-stick tawa, you might need less oil.",
+        "If the batter is too thick, add a little water to thin it out.",
+        "If the dosa tears easily while spreading, the batter might be too thin. Let it ferment for a longer time.",
+        "Experiment with different fillings for variations like masala dosa or potato dosa."
+    ],
+    "rating": 4.5,
+    "difficulty": "beginner",
+    "comments": [
+        {
+            "username": "rakesh",
+            "text": "This recipe is so delicious!",
+            "likes": 1
+        }
+    ]
+}
+
+###
+GET http://localhost:4000/recipe-api/recipe
+
+###
+GET http://localhost:4000/recipe-api/recipe/cuisine/north-indian
+
+###
+GET http://localhost:4000/recipe-api/recipe/id/1711111940
+
+###
+POST http://localhost:4000/recipe-api/saved-recipes
+Content-Type: application/json
+
+{
+    "id":["1711111895","1711111781","1711111674"]
+}
